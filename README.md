@@ -10,5 +10,5 @@ Copy this directory into your react-native project root and update the `index.io
 import { AppRegistry } from 'react-native'
 import App from './src'
 
-AppRegistry.registerComponent('AppNameInstalledWith', () => App)
+AppRegistry.registerComponent('ProjectName', () => App)
 ```
